@@ -20,4 +20,5 @@ I’m passionate about designing backend systems that are optimized for scalabil
 ### 🌱 Education & Achievements
 
 - **Bachelor of Computer Engineering**, Sejong University (Mar 2023 – Aug 2025)
-- 🏆 **Top Prize**, 19th Sejong University Creative Engineering Design Competition
+- 🏆 **Top Prize**, 19th Sejong University Creative Engineering Design Competition  
+  → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)
