@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1>Hi, I'm Yuhan Park <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+I’m passionate about designing backend systems that are optimized for scalability and performance. I’m particularly interested in distributed technologies like Redis, Kafka, and Elasticsearch, and continuously study system architecture and performance tuning.
 
 <!--
 **yuhandemian/yuhandemian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
