@@ -2,7 +2,7 @@
 
 I’m diving deep into **backend development**, with a strong interest in how systems scale and perform.
 
-Lately, I’ve been exploring distributed systems and tools like **Redis, Kafka, and Elasticsearch** to better understand scalable architectures.
+Recently, I’ve been exploring distributed systems and tools like **Redis, Kafka, and Elasticsearch** to better understand scalable architectures.
 
 
 ### 📬 Contact | [Email](mailto:yuhn1011@naver.com) 
@@ -27,6 +27,11 @@ Lately, I’ve been exploring distributed systems and tools like **Redis, Kafka,
 
 - **JEONBUK NATIONAL UNIVERSITY - Dept. of Mineral Resources and Energy Engineering** (Mar 2019 – Aug 2022, withdrew)
     <p> While studying engineering at Jeonbuk National University, I discovered a strong interest in programming through coursework—this passion led me to transfer to Sejong University to pursue Computer Engineering in depth.</p>
+    
+### 📘 Professional Training
+
+- **Codeit Sprint — Backend Developer Program** (Jul 2025 – Present)
+    <p> A 7-month intensive training program focused on building scalable, production-level backend services for real-world traffic environments.</p>
 
 ### 💎 Achievements
 - 🏆 **Top Prize**, 19th Sejong University Creative Engineering Design Competition  
