@@ -3,7 +3,7 @@
   I'm currently diving deep into **backend development**, and I love learning how systems can scale efficiently.  
 
 
-  I'm especially interested in distributed technologies like **Redis, Kafka, and Elasticsearch**, and enjoy studying **system architecture and performance tuning** in my spare time.
+  I'm especially interested in distributed technologies like **Redis, Kafka, and Elasticsearch**, and enjoy exploring **system architecture and performance optimization.**
 
 
 ### 📬 Contact | [Email](mailto:yuhn1011@naver.com) 
@@ -24,6 +24,6 @@
 
 ### 🌱 Education & Achievements
 
-- **Bachelor of Computer Engineering**, Sejong University (Mar 2023 – Aug 2025)
+- **Bachelor of Computer Engineering**, Sejong University (Aug 2025)
 - 🏆 **Top Prize**, 19th Sejong University Creative Engineering Design Competition  
   → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)
