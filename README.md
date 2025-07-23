@@ -23,6 +23,7 @@ Lately, I’ve been exploring distributed systems and tools like **Redis, Kafka,
 
 ### 🌱 Education & Achievements
 
-- **Bachelor of Computer Engineering**, Sejong University (Aug 2025)
+- JEONBUK NATIONAL UNIVERSITY — B.S. in Mineral Resources and Energy Engineering (Mar 2019 – Feb 2022)
+- SEJONG UNIVERSITY — B.S. in Computer Engineering (Transfer) (Mar 2023 – Aug 2025)
 - 🏆 **Top Prize**, 19th Sejong University Creative Engineering Design Competition  
   → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)
