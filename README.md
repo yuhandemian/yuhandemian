@@ -1,9 +1,8 @@
 <h1>Hi, I'm Yuhan Park <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-  I'm currently diving deep into **backend development**, and I love learning how systems can scale efficiently.  
+I’m diving deep into **backend development**, with a strong interest in how systems scale and perform.
 
-
-  I'm especially interested in distributed technologies like **Redis, Kafka, and Elasticsearch**, and enjoy exploring **system architecture and performance optimization.**
+Lately, I’ve been exploring distributed systems and tools like **Redis, Kafka, and Elasticsearch** to better understand scalable architectures.
 
 
 ### 📬 Contact | [Email](mailto:yuhn1011@naver.com) 
