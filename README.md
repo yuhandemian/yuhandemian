@@ -21,9 +21,13 @@ Lately, I’ve been exploring distributed systems and tools like **Redis, Kafka,
   <img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
 </div>
 
-### 🌱 Education & Achievements
+### 🌱 Education 
 
-- JEONBUK NATIONAL UNIVERSITY — B.S. in Mineral Resources and Energy Engineering (Mar 2019 – Feb 2022)
-- SEJONG UNIVERSITY — B.S. in Computer Engineering (Transfer) (Mar 2023 – Aug 2025)
+- **SEJONG UNIVERSITY — B.S. in Computer Engineering** (Mar 2023 – Aug 2025)
+
+- **JEONBUK NATIONAL UNIVERSITY - Dept. of Mineral Resources and Energy Engineering** (Mar 2019 – Aug 2022, withdrew)
+    <p> While studying engineering at Jeonbuk National University, I discovered a strong interest in programming through coursework—this passion led me to transfer to Sejong University to pursue Computer Engineering in depth.</p>
+
+### 💎 Achievements
 - 🏆 **Top Prize**, 19th Sejong University Creative Engineering Design Competition  
   → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)
