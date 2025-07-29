@@ -42,7 +42,8 @@ Recently, I’ve been exploring distributed systems and tools like **Redis, Kafk
 
 ### 💎 Achievements
 - 🏆 **Top Prize(최우수상)**, 19th Sejong University Creative Engineering Design Competition  
-  → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)
+  → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)  
+  → *Served as team lead and backend developer, building the real-time abnormal behavior detection system using Spring Boot and FastAPI.*
 
 <br>
 
