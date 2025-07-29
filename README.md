@@ -5,7 +5,8 @@ I’m diving deep into **backend development**, with a strong interest in how sy
 Recently, I’ve been exploring distributed systems and tools like **Redis, Kafka, and Elasticsearch** to better understand scalable architectures.
 
 
-### 📬 Contact | [Email](mailto:yuhn1011@naver.com) 
+### 📬 Contact
+[Email](mailto:yuhn1011@naver.com) | [LinkedIn](https://www.linkedin.com/in/yuhanpark12345/)
 <br>
 
 
@@ -40,20 +41,19 @@ Recently, I’ve been exploring distributed systems and tools like **Redis, Kafk
 
 
 ### 💎 Achievements
-- 🏆 **Top Prize**, 19th Sejong University Creative Engineering Design Competition  
+- 🏆 **Top Prize(최우수상)**, 19th Sejong University Creative Engineering Design Competition  
   → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)
 
 <br>
 
 ### 🌱 Education 
 
-- **SEJONG UNIVERSITY — B.S. in Computer Engineering** (Mar 2023 – Aug 2025)
+- **SEJONG UNIVERSITY(세종대학교) — B.S. in Computer Engineering** (Mar 2023 – Aug 2025)
 
-- **JEONBUK NATIONAL UNIVERSITY - Dept. of Mineral Resources and Energy Engineering** (Mar 2019 – Aug 2022, withdrew)
-    <p> While studying engineering at Jeonbuk National University, I discovered a strong interest in programming through coursework—this passion led me to transfer to Sejong University to pursue Computer Engineering in depth.</p>
+- **JEONBUK NATIONAL UNIVERSITY(전북대학교) - Dept. of Mineral Resources and Energy Engineering** (Mar 2019 – Aug 2022, withdrew)
+    <p> Developed a strong interest in programming, which ultimately led to a transfer.</p>
     
 ### 📘 Professional Training
 
-- **Codeit Sprint — Backend Developer Program** (Jul 2025 – Present)
-    <p> A 7-month intensive training program focused on building scalable, production-level backend services for real-world traffic environments.</p>
+- **Codeit Sprint(코드잇 스프린트) — Backend Developer Program** (Jul 2025 – Present)
 
