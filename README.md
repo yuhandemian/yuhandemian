@@ -6,13 +6,7 @@ Recently, I’ve been exploring distributed systems and tools like **Redis, Kafk
 
 
 ### 📬 Contact
-<a href="mailto:yuhn1011@naver.com">
-  <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/yuhanpark12345/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+[Email](mailto:yuhn1011@naver.com) ｜ [LinkedIn](https://www.linkedin.com/in/yuhanpark12345/)
 
 
 
