@@ -6,8 +6,14 @@ Recently, I’ve been exploring distributed systems and tools like **Redis, Kafk
 
 
 ### 📬 Contact
-[Email](mailto:yuhn1011@naver.com) | [LinkedIn](https://www.linkedin.com/in/yuhanpark12345/)
-<br>
+<a href="mailto:yuhn1011@naver.com">
+  <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/yuhanpark12345/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
 
 
 ### 🛠️ Tech Stack
@@ -20,7 +26,7 @@ Recently, I’ve been exploring distributed systems and tools like **Redis, Kafk
 
 **Database & Cache** <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 
