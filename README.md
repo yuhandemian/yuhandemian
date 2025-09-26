@@ -38,7 +38,7 @@ Recently, I’ve been exploring distributed systems and tools like **Redis, Kafk
 
 
 ### 💎 Achievements
-- Top Prize: 19th Sejong University Creative Engineering Design Competition  
+- Top Prize(1등): 19th Sejong University Creative Engineering Design Competition  
   → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)  
   → *Served as team lead and backend developer, building the real-time abnormal behavior detection system using Spring Boot and FastAPI.*
 
@@ -47,9 +47,6 @@ Recently, I’ve been exploring distributed systems and tools like **Redis, Kafk
 ### 🌱 Education 
 
 - **SEJONG UNIVERSITY(세종대학교) — B.S. in Computer Engineering** (Mar 2023 – Aug 2025)
-
-- **JEONBUK NATIONAL UNIVERSITY(전북대학교) - Dept. of Mineral Resources and Energy Engineering** (Mar 2019 – Aug 2022, withdrew)
-    <p> Developed a strong interest in programming, which ultimately led to a transfer.</p>
     
 ### 📘 Professional Training
 
