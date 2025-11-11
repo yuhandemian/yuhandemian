@@ -2,7 +2,7 @@
 
 I’m diving deep into **backend development**, with a strong interest in how systems scale and perform.
 
-Recently, I’ve been exploring distributed systems and tools like **Redis, Kafka, and Elasticsearch** to better understand scalable architectures.
+Recently, I’ve been exploring distributed systems to better understand scalable architectures.
 
 
 ### 📬 Contact
@@ -25,14 +25,12 @@ Recently, I’ve been exploring distributed systems and tools like **Redis, Kafk
 <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 
-**Infra & Messaging** <br>
+**Infra** <br>
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">  
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
 
 <br>
 
