@@ -38,6 +38,9 @@ Recently, I’ve been exploring distributed systems to better understand scalabl
 
 
 ### 💎 Achievements
+<img width="1776" height="1000" alt="image" src="https://github.com/user-attachments/assets/bc53b430-a368-4e2c-82c8-c22d570fcde3" />
+
+
 - Top Prize(1등): 19th Sejong University Creative Engineering Design Competition  
   → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)  
   → *Served as team lead and backend developer, building the real-time abnormal behavior detection system using Spring Boot and FastAPI.*
