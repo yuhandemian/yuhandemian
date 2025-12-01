@@ -1,6 +1,6 @@
 <h1>Hi, I'm Yuhan Park 👋</h1>
 
-<img width="1783" height="1000" alt="image" src="https://github.com/user-attachments/assets/17ce1606-8a15-4cb8-9bf3-e5770410bf64" />
+<img width="500" height="750" alt="image" src="https://github.com/user-attachments/assets/821d0abb-7025-4ded-bf52-d06e423fcf25" />
 
 I’m diving deep into **backend development**, with a strong interest in how systems scale and perform.
 
@@ -38,6 +38,7 @@ Recently, I’ve been exploring distributed systems to better understand scalabl
 
 
 ### 💎 Achievements
+<img width="1783" height="1000" alt="image" src="https://github.com/user-attachments/assets/17ce1606-8a15-4cb8-9bf3-e5770410bf64" />
 <img width="1776" height="1000" alt="image" src="https://github.com/user-attachments/assets/bc53b430-a368-4e2c-82c8-c22d570fcde3" />
 
 
