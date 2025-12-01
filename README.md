@@ -1,5 +1,7 @@
 <h1>Hi, I'm Yuhan Park 👋</h1>
 
+<img width="1783" height="1000" alt="image" src="https://github.com/user-attachments/assets/17ce1606-8a15-4cb8-9bf3-e5770410bf64" />
+
 I’m diving deep into **backend development**, with a strong interest in how systems scale and perform.
 
 Recently, I’ve been exploring distributed systems to better understand scalable architectures.
