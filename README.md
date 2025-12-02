@@ -54,7 +54,8 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - **2025 SW중심대학 우수작품 경진대회 — 우수상(소프트웨어중심대학 협의회장상)**  
 미어캣AI: AI 기반 무인점포 이상행동 감지 시스템  
 (세종대학교 대표 출전 / 팀장, 백엔드 / 전국 58개 대학 대표팀 참여)  
-https://bypub.kr/ebook/msit2025A/index.html#p=56
+참고링크: https://www.swuniv.kr/72/?bmode=view&idx=168784681  
+Ebook: https://bypub.kr/ebook/msit2025A/index.html#p=56  
 
 - **Top Prize(1등): 19th Sejong University Creative Engineering Design Competition**  
   → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)  
