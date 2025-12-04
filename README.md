@@ -46,9 +46,9 @@ Recently, I’ve been exploring distributed system design to understand how larg
 ---
 
 ### 💎 Achievements
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc53b430-a368-4e2c-82c8-c22d570fcde3" width="75%" alt="Achievement Photo"/>
+  <img src="https://github.com/user-attachments/assets/282c971d-dcbb-4497-b8f8-d24fc0073d0e" width="45%" />
+  <img src="https://github.com/user-attachments/assets/bc53b430-a368-4e2c-82c8-c22d570fcde3" width="45%" />
 </p>
 
 - **2025 SW중심대학 우수작품 경진대회 — 우수상(소프트웨어중심대학 협의회장상)**  
