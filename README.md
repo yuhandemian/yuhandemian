@@ -51,7 +51,8 @@ Recently, I’ve been exploring distributed system design to understand how larg
   <img src="https://github.com/user-attachments/assets/bc53b430-a368-4e2c-82c8-c22d570fcde3" width="45%" />
 </p>
 
-- **2025 SW중심대학 우수작품 경진대회 — 우수상(소프트웨어중심대학 협의회장상)**  
+- **2025 SW중심대학 우수작품 경진대회 — 우수상(소프트웨어중심대학 협의회장상)**
+*주최 :과학기술정보통신부 / 주관: IITP, SW중심대학협의회*  
 미어캣AI: AI 기반 무인점포 이상행동 감지 시스템  
 (세종대학교 대표 출전 / 팀장, 백엔드 / 전국 58개 대학 대표팀 참여)  
 참고링크: https://www.swuniv.kr/72/?bmode=view&idx=168784681  
