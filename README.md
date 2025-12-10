@@ -1,11 +1,5 @@
 <h1 align="center">Hi, I'm Yuhan Park 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/821d0abb-7025-4ded-bf52-d06e423fcf25" width="22%" alt="Presentation Photo" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/17ce1606-8a15-4cb8-9bf3-e5770410bf64" width="42%" alt="Award Photo" />
-</p>
-
 ---
 
 I’m diving deep into **backend development**, focusing on scalable and high-performance systems.  
@@ -46,9 +40,10 @@ Recently, I’ve been exploring distributed system design to understand how larg
 ---
 
 ### 💎 Achievements
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/282c971d-dcbb-4497-b8f8-d24fc0073d0e" width="45%" />
-  <img src="https://github.com/user-attachments/assets/bc53b430-a368-4e2c-82c8-c22d570fcde3" width="45%" />
+  <img src="https://github.com/user-attachments/assets/17ce1606-8a15-4cb8-9bf3-e5770410bf64" width="42%" alt="Award Photo" />
 </p>
 
 - **2025 SW중심대학 우수작품 경진대회 — 우수상(소프트웨어중심대학 협의회장상)**  
