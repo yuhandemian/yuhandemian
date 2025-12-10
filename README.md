@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Yuhan Park 👋</h1>
 
----
-
 I’m diving deep into **backend development**, focusing on scalable and high-performance systems.  
 Recently, I’ve been exploring distributed system design to understand how large architectures behave under load.
 
