@@ -60,7 +60,7 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - **공식 Ebook (p.56)**  
   https://bypub.kr/ebook/msit2025A/index.html#p=56
 - **GitHub Repository**  
-  https://github.com/Capstone-project-team
+  https://github.com/Capstone-project-team7
 - **Service Demo**  
   https://meerkatai.shop/
 
