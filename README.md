@@ -68,7 +68,7 @@ Recently, I’ve been exploring distributed system design to understand how larg
 > - This service provides a demo account for evaluation purposes.  
 > - Demo credentials are available upon request.  
 
-- **🥇 Top Prize(1st Place): 19th Sejong University Creative Engineering Design Competition**  
+- **🥇 Top Prize(1st Place): 『2025년 세종대학교 제19회 창의설계경진대회』 19th Sejong University Creative Engineering Design Competition**  
   → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)  
   → Team Lead & Backend Developer
 
