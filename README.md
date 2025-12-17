@@ -44,14 +44,31 @@ Recently, I’ve been exploring distributed system design to understand how larg
   <img src="https://github.com/user-attachments/assets/17ce1606-8a15-4cb8-9bf3-e5770410bf64" width="42%" alt="Award Photo" />
 </p>
 
-- **2025 SW중심대학 우수작품 경진대회 — 우수상(소프트웨어중심대학 협의회장상)**  
-**주최 :과학기술정보통신부 / 주관: IITP(정보통신기획평가원), SW중심대학협의회**  
-미어캣AI: AI 기반 무인점포 이상행동 감지 시스템  
-(세종대학교 대표 출전 / 팀장, 백엔드 / 전국 58개 대학 대표팀 참여)  
-참고링크: https://www.swuniv.kr/72/?bmode=view&idx=168784681  
-Ebook: https://bypub.kr/ebook/msit2025A/index.html#p=56  
+- **🏆 2025 SW중심대학 우수작품 경진대회 — 우수상(소프트웨어중심대학 협의회장상)**  
 
-- **Top Prize(1등): 19th Sejong University Creative Engineering Design Competition**  
+미어캣AI: AI 기반 무인점포 이상행동 감지 시스템  
+
+- **주최**: 과학기술정보통신부  
+- **주관**: IITP(정보통신기획평가원), SW중심대학협의회  
+- **참여 규모**: 전국 58개 대학 대표팀  
+- **출전**: 세종대학교 대표  
+- **역할**: 팀장 / 백엔드 개발
+
+#### 🔗 References
+- **대회 공식 소개**  
+  https://www.swuniv.kr/72/?bmode=view&idx=168784681
+- **공식 Ebook (p.56)**  
+  https://bypub.kr/ebook/msit2025A/index.html#p=56
+- **GitHub Repository**  
+  https://github.com/Capstone-project-team
+- **Service Demo**  
+  https://meerkatai.shop/
+
+> 🔐 **Demo Account**  
+> - This service provides a demo account for evaluation purposes.  
+> - Demo credentials are available upon request.  
+
+- **🥇 Top Prize(1st Place): 19th Sejong University Creative Engineering Design Competition**  
   → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)  
   → Team Lead & Backend Developer
 
