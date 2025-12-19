@@ -55,14 +55,10 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - **역할**: 팀장 / 백엔드 개발
 
 #### 🔗 References
-- **대회 공식 소개**  
-  https://www.swuniv.kr/72/?bmode=view&idx=168784681
-- **공식 Ebook (p.56)**  
-  https://bypub.kr/ebook/msit2025A/index.html#p=56
-- **GitHub Repository**  
-  https://github.com/Capstone-project-team7
-- **Service Demo**  
-  https://meerkatai.shop/
+- [**대회 수상 결과**](https://www.swuniv.kr/72/?bmode=view&idx=168784681)
+- [**프로젝트 소개 공식 Ebook (p.56)**](https://bypub.kr/ebook/msit2025A/index.html#p=56)
+- [**GitHub Repository**](https://github.com/Capstone-project-team7)
+- [**Service Demo**](https://meerkatai.shop/)
 
 > 🔐 **Demo Account**  
 > - This service provides a demo account for evaluation purposes.  
@@ -71,7 +67,18 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - **🥇 Top Prize(1st Place): 『2025년 세종대학교 제19회 창의설계경진대회』 19th Sejong University Creative Engineering Design Competition**  
   → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)  
   → Team Lead & Backend Developer
+  
+### 📰 Media Coverage
 
+- **[SW중심대학 10주년] 전국 58개 대학 SW 우수작품 경진대회**
+  - 세종대학교 대표 팀 *MeerkatAI*, 우수상(SW중심대학협의회장상) 수상
+  - ETNews, 2025.11.27
+  - 🔗 [기사 링크](https://www.eduplusnews.com/news/articleView.html?idxno=16946)
+ 
+- **구윤철 부총리, 세종대 AI 역량강화 현장 방문**
+  - 현장 실습 프로젝트로 *MeerkatAI*를 소개하고 시스템 설명을 진행함
+  - NewsPim, 2025.12.18  
+  - 🔗 [기사 링크](https://m.news.nate.com/view/20251218n22731)
 ---
 
 ### 🌱 Education
