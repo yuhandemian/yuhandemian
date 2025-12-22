@@ -39,11 +39,6 @@ Recently, I’ve been exploring distributed system design to understand how larg
 
 ### 💎 Achievements
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/282c971d-dcbb-4497-b8f8-d24fc0073d0e" width="45%" />
-  <img src="https://github.com/user-attachments/assets/17ce1606-8a15-4cb8-9bf3-e5770410bf64" width="42%" alt="Award Photo" />
-</p>
-
 - **🏆 2025 SW중심대학 우수작품 경진대회 — 우수상(소프트웨어중심대학 협의회장상)**  
 
 미어캣AI: AI 기반 무인점포 이상행동 감지 시스템  
