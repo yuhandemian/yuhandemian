@@ -80,4 +80,4 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - **SEJONG UNIVERSITY — B.S. Computer Engineering** (Mar 2023 – Aug 2025)
 
 ### 📘 Professional Training
-- **Codeit Sprint — Backend Developer Program** (Jul 2025 – Present)
+- **Codeit Sprint — Backend Developer Program** (Jul 2025 – Jan 2026)
