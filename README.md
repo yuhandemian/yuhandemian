@@ -35,9 +35,6 @@ Recently, I’ve been exploring distributed system design to understand how larg
 <br>
 
 ---
-
-### 🚀 Projects
-
 ### 🚀 Projects
 
 #### 🎬 모두의 플리
