@@ -39,28 +39,15 @@ Recently, I’ve been exploring distributed system design to understand how larg
 
 #### 🎬 모두의 플리
 - **Period**: 2025.12 – 2026.01  
-- **Role**: Team Lead /Backend Developer  
+- **Role**: Team Lead / Backend Developer  
 - **Tech**: Spring Boot, JPA, QueryDSL, Redis, MySQL, AWS ECS, Docker, Prometheus, Grafana  
 - **Highlights**:
-  - Prometheus·Grafana 기반 서비스 모니터링 구성
-  - **Concurrency Control: Subscriber Count Race Condition**
-  - 구독자 수 증가 시 Race Condition 발생
-  - RDBMS Row-level Lock 기반 `UPDATE count = count + 1` 원자적 연산으로 해결
-  - ms 단위 대기 시간으로 정합성 100% + 높은 처리 성능 확보
-
-- **Query Optimization: Cursor Pagination & Subscription Lookup**
-  - 플레이리스트 목록·구독 조회 쿼리 성능 저하 문제 확인
-  - 정렬 기준(UpdatedAt / SubscriberCount / CreatedAt) 기반 복합 인덱스 설계
+- Prometheus·Grafana 기반 서비스 모니터링 구성
+- **Cursor Pagination & Subscription Query Optimization**
+  - 실행계획 분석을 통해 정렬 기반 목록 조회 및 구독 조회 쿼리 병목 식별
+  - UpdatedAt / SubscriberCount / CreatedAt 기준 복합 인덱스 설계
   - 평균 응답시간 **90.3% 감소**, P99 **91.6% 감소**
   - TPS **35.8% 증가**, Tail Latency 개선
-
-- **Hotspot Mitigation in Read-Heavy Traffic**
-  - Read:Write ≈ 100:1 환경에서 특정 플레이리스트로 트래픽 집중
-  - Zipfian 분포 기반 부하 테스트로 Hotspot 재현
-  - Redis Cache-Aside 패턴 적용 (Miss 시 DB 조회 후 캐싱)
-  - Playlist Detail API 평균 응답시간 **46.3% 감소**,  
-    P99 **22.2% 개선**, TPS **2.57% 향상**
-- 🔗 [GitHub](https://github.com/codeit-mopl)
 
 ---
 
