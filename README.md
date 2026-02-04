@@ -41,13 +41,13 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - **Period**: 2025.12 – 2026.01  
 - **Role**: Team Lead / Backend Developer  
 - **Tech**: Spring Boot, JPA, QueryDSL, Redis, MySQL, AWS ECS, Docker, Prometheus, Grafana  
-- **Highlights**:
-- Prometheus·Grafana 기반 서비스 모니터링 구성
-- **Cursor Pagination & Subscription Query Optimization**
-  - 실행계획 분석을 통해 정렬 기반 목록 조회 및 구독 조회 쿼리 병목 식별
-  - UpdatedAt / SubscriberCount / CreatedAt 기준 복합 인덱스 설계
-  - 평균 응답시간 **90.3% 감소**, P99 **91.6% 감소**
-  - TPS **35.8% 증가**, Tail Latency 개선
+- **Highlights**
+  - Prometheus·Grafana 기반 서비스 모니터링 구성
+  - **Cursor Pagination & Subscription Query Optimization**
+    - 실행계획 분석을 통해 정렬 기반 목록 조회 및 구독 조회 쿼리 병목 식별
+    - UpdatedAt / SubscriberCount / CreatedAt 기준 복합 인덱스 설계
+    - 평균 응답시간 **90.3% 감소**, P99 **91.6% 감소**
+    - TPS **35.8% 증가**, Tail Latency 개선
 
 ---
 
@@ -66,25 +66,11 @@ Recently, I’ve been exploring distributed system design to understand how larg
 ---
 
 #### 📰 모뉴
-- **Period**: 2025.10 – 2025.11  
-- **Role**: Team Lead / Backend Developer  
-- **Tech**: Spring Boot, Spring Batch, JPA, Redis, PostgreSQL, MongoDB, AWS ECS, S3, Docker  
-- **Highlights**:
-  - Spring Batch 기반 뉴스 수집 자동화 (OpenAPI, RSS)
-  - Redis 조회수 중복 방지 및 장애 대비 Fallback 로직
-  - AWS S3 연동 일일 뉴스 데이터 백업·복구 시스템
-  - GitHub Actions 기반 CI/CD 파이프라인 구축
 - 🔗 [GitHub](https://github.com/codeit-monew)
 
 ---
 
 #### 📊 Findex
-- **Period**: 2025.09  
-- **Role**: Backend Developer  
-- **Tech**: Spring Boot, JPA, QueryDSL, PostgreSQL, Docker
-- **Highlights**:
-  - 지수 조회·필터·정렬 API 및 성과 랭킹 로직 구현
-  - 이동평균선·가격 변동 비교 데이터 가공 및 CSV 다운로드
 - 🔗 [GitHub](https://github.com/codeit-projects-5th/Findex)
 ---
 
