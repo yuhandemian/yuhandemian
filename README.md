@@ -48,7 +48,7 @@ Recently, I’ve been exploring distributed system design to understand how larg
     - UpdatedAt / SubscriberCount / CreatedAt 기준 복합 인덱스 설계
     - 평균 응답시간 **90.3% 감소**, P99 **91.6% 감소**
     - TPS **35.8% 증가**, Tail Latency 개선
-
+- 🔗 [GitHub](https://github.com/codeit-mopl)
 ---
 
 #### 🤖 미어캣AI
