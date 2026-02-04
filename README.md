@@ -66,11 +66,22 @@ Recently, I’ve been exploring distributed system design to understand how larg
 
 
 #### 📰 모뉴
+- **Period**: 2025.10 – 2025.11  
+- **Role**: Team Lead / Backend Developer  
+- **Tech**: Spring Boot, Spring Batch, JPA, Redis, PostgreSQL, MongoDB, AWS ECS, S3, Docker  
+- **Highlights**:
+  - Spring Batch 기반 뉴스 수집 자동화 (OpenAPI, RSS)
+  - Redis 조회수 중복 방지 및 장애 대비 Fallback 로직
 - 🔗 [GitHub](https://github.com/codeit-monew)
 
 
 
 #### 📊 Findex
+- **Period**: 2025.09  
+- **Role**: Backend Developer  
+- **Tech**: Spring Boot, JPA, QueryDSL, PostgreSQL, Docker
+- **Highlights**:
+  - 지수 조회·필터·정렬 API 및 성과 랭킹 로직 구현
 - 🔗 [GitHub](https://github.com/codeit-projects-5th/Findex)
 ---
 
