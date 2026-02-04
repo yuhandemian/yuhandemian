@@ -41,7 +41,7 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - **Period**: 2025.12 – 2026.01  
 - **Role**: Team Lead / Backend Developer  
 - **Tech**: Spring Boot, JPA, QueryDSL, Redis, MySQL, AWS ECS, Docker, Prometheus, Grafana  
-- **Highlights**
+- **Highlights**:
   - Prometheus·Grafana 기반 서비스 모니터링 구성
   - **Cursor Pagination & Subscription Query Optimization**
     - 실행계획 분석을 통해 정렬 기반 목록 조회 및 구독 조회 쿼리 병목 식별
@@ -55,7 +55,7 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - **Period**: 2025.03 – 2025.09 
 - **Role**: Team Lead / Backend Developer  
 - **Tech**: Spring Boot, FastAPI, MySQL, AWS, Nginx  
-- **Highlights**
+- **Highlights**:
   - 실시간 AI 추론 서버(FastAPI)와 Spring Boot 백엔드 분리 설계
   - RTSP 연동 실환경에서 추론 정확도 저하 문제 발생
   - CCTV 입력(30fps)과 모델 학습 데이터(3fps) 간 프레임 레이트 불일치 원인 규명
