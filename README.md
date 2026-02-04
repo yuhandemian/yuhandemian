@@ -49,13 +49,13 @@ Recently, I’ve been exploring distributed system design to understand how larg
     - 평균 응답시간 **90.3% 감소**, P99 **91.6% 감소**
     - TPS **35.8% 증가**, Tail Latency 개선
 - 🔗 [GitHub](https://github.com/codeit-mopl)
----
+
 
 #### 🤖 미어캣AI
 - **Period**: 2025.03 – 2025.09 
 - **Role**: Team Lead / Backend Developer  
 - **Tech**: Spring Boot, FastAPI, MySQL, AWS, Nginx  
-- **Highlights**:
+- **Highlights**
   - 실시간 AI 추론 서버(FastAPI)와 Spring Boot 백엔드 분리 설계
   - RTSP 연동 실환경에서 추론 정확도 저하 문제 발생
   - CCTV 입력(30fps)과 모델 학습 데이터(3fps) 간 프레임 레이트 불일치 원인 규명
@@ -63,54 +63,64 @@ Recently, I’ve been exploring distributed system design to understand how larg
   - 실환경에서도 테스트 환경과 유사한 추론 정확도 확보
 - 🔗 [GitHub](https://github.com/Capstone-project-team7) | [Demo](https://meerkatai.shop/)
 
----
+
 
 #### 📰 모뉴
 - 🔗 [GitHub](https://github.com/codeit-monew)
 
----
+
 
 #### 📊 Findex
 - 🔗 [GitHub](https://github.com/codeit-projects-5th/Findex)
 ---
 
-### 💎 Achievements
+<details>
+  <summary><strong>💎 Achievements</strong></summary>
 
-- **🏆 2025 SW중심대학 우수작품 경진대회 — 우수상(소프트웨어중심대학 협의회장상)**  
+  <br>
 
-미어캣AI: AI 기반 무인점포 이상행동 감지 시스템  
+  - **🏆 2025 SW중심대학 우수작품 경진대회 — 우수상(소프트웨어중심대학 협의회장상)**  
+    미어캣AI: AI 기반 무인점포 이상행동 감지 시스템  
 
-- **주최**: 과학기술정보통신부  
-- **주관**: IITP(정보통신기획평가원), SW중심대학협의회  
-- **참여 규모**: 전국 58개 대학 대표팀  
-- **출전**: 세종대학교 대표  
-- **역할**: 팀장 / 백엔드 개발
+  - **주최**: 과학기술정보통신부  
+  - **주관**: IITP(정보통신기획평가원), SW중심대학협의회  
+  - **참여 규모**: 전국 58개 대학 대표팀  
+  - **출전**: 세종대학교 대표  
+  - **역할**: 팀장 / 백엔드 개발
 
-#### 🔗 References
-- [**대회 수상 결과**](https://www.swuniv.kr/72/?bmode=view&idx=168784681)
-- [**프로젝트 소개 공식 Ebook (p.56)**](https://bypub.kr/ebook/msit2025A/index.html#p=56)
-- [**GitHub Repository**](https://github.com/Capstone-project-team7)
-- [**Service Demo**](https://meerkatai.shop/)
+  ### 🔗 References
+  - [대회 수상 결과](https://www.swuniv.kr/72/?bmode=view&idx=168784681)
+  - [프로젝트 소개 공식 Ebook (p.56)](https://bypub.kr/ebook/msit2025A/index.html#p=56)
+  - [GitHub Repository](https://github.com/Capstone-project-team7)
+  - [Service Demo](https://meerkatai.shop/)
 
-> 🔐 **Demo Account**  
-> - This service provides a demo account for evaluation purposes.  
-> - Demo credentials are available upon request.  
+  > 🔐 **Demo Account**  
+  > Demo credentials are available upon request.
 
-- **🥇 Top Prize(1st Place): 『2025년 세종대학교 제19회 창의설계경진대회』 19th Sejong University Creative Engineering Design Competition**  
-  → [**MeerkatAI**: Unmanned Store Abnormal Behavior Detection System using AI](https://github.com/Capstone-project-team7)  
-  → Team Lead & Backend Developer
+  - **🥇 Top Prize(1st Place): 2025 세종대학교 창의설계경진대회 최우수상**  
+    → MeerkatAI / Team Lead & Backend Developer
+
+</details>  
+
+---
   
-### 📰 Media Coverage
+<details>
+  <summary><strong>📰 Media Coverage</strong></summary>
 
-- **[SW중심대학 10주년] 전국 58개 대학 SW 우수작품 경진대회**
-  - 세종대학교 대표 팀 *MeerkatAI*, 우수상(SW중심대학협의회장상) 수상
-  - ETNews, 2025.11.27
-  - 🔗 [기사 링크](https://www.eduplusnews.com/news/articleView.html?idxno=16946)
- 
-- **구윤철 부총리, 세종대 AI 역량강화 현장 방문**
-  - 현장 실습 프로젝트로 *MeerkatAI*를 소개하고 시스템 설명을 진행함
-  - NewsPim, 2025.12.18  
-  - 🔗 [기사 링크](https://m.news.nate.com/view/20251218n22731)
+  <br>
+
+  - **[SW중심대학 10주년] 전국 58개 대학 SW 우수작품 경진대회**
+    - 세종대학교 대표 팀 *MeerkatAI*, 우수상 수상
+    - ETNews, 2025.11.27  
+    - https://www.eduplusnews.com/news/articleView.html?idxno=16946
+
+  - **구윤철 부총리, 세종대 AI 역량강화 현장 방문**
+    - 미어캣AI 시스템 소개
+    - NewsPim, 2025.12.18  
+    - https://m.news.nate.com/view/20251218n22731
+
+</details>  
+
 ---
 
 ### 🌱 Education
