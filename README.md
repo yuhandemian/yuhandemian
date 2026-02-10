@@ -85,6 +85,18 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - 🔗 [GitHub](https://github.com/codeit-projects-5th/Findex)
 ---
 
+### 💡 Personal Projects
+
+#### 📚 CS Wiki - 인터랙티브 CS 학습 플랫폼
+- **Tech**: Next.js, TypeScript, D3.js, Lunr.js
+- **Features**:
+  - D3 Force Graph로 97개 CS 개념 관계 시각화
+  - 클라이언트 전문 검색 (서버리스)
+  - Static Export + GitHub Pages 배포
+- 🔗 [GitHub](https://github.com/yuhandemian/cs-wiki) | [Demo](https://yuhandemian.github.io/cs-wiki/)
+
+---
+
 <details>
   <summary><strong>💎 Achievements</strong></summary>
 
