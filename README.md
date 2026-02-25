@@ -65,7 +65,7 @@ Recently, I’ve been exploring distributed system design to understand how larg
 
 
 
-#### 📰 모뉴
+#### 📰 모두의 뉴스
 - **Period**: 2025.10 – 2025.11  
 - **Role**: Team Lead / Backend Developer  
 - **Tech**: Spring Boot, Spring Batch, JPA, Redis, PostgreSQL, MongoDB, AWS ECS, S3, Docker  
