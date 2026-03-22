@@ -40,7 +40,7 @@ Recently, I’ve been exploring distributed system design to understand how larg
 #### 🎬 모두의 플리
 - **Period**: 2025.12 – 2026.01  
 - **Role**: Team Lead / Backend Developer  
-- **Tech**: Spring Boot, JPA, QueryDSL, Redis, MySQL, AWS ECS, Docker, Prometheus, Grafana  
+- **Tech**: Spring Boot, MySQL, QueryDSL, Redis, AWS ECS/ECR/ALB, Docker, GitHub Actions, WebSocket, Prometheus, Grafana  
 - **Highlights**:
   - Prometheus·Grafana 기반 서비스 모니터링 구성
   - **Cursor Pagination & Subscription Query Optimization**
@@ -54,7 +54,7 @@ Recently, I’ve been exploring distributed system design to understand how larg
 #### 🤖 미어캣AI
 - **Period**: 2025.03 – 2025.09 
 - **Role**: Team Lead / Backend Developer  
-- **Tech**: Spring Boot, FastAPI, MySQL, AWS, Nginx  
+- **Tech**: Spring Boot, MySQL, FastAPI, YOLO11s-pose, LSTM, Dialogflow, RTSP  
 - **Highlights**:
   - 실시간 AI 추론 서버(FastAPI)와 Spring Boot 백엔드 분리 설계
   - RTSP 연동 실환경에서 추론 정확도 저하 문제 발생
@@ -68,7 +68,7 @@ Recently, I’ve been exploring distributed system design to understand how larg
 #### 📰 모두의 뉴스
 - **Period**: 2025.10 – 2025.11  
 - **Role**: Team Lead / Backend Developer  
-- **Tech**: Spring Boot, Spring Batch, JPA, Redis, PostgreSQL, MongoDB, AWS ECS, S3, Docker  
+- **Tech**: Spring Boot, PostgreSQL, QueryDSL, Spring Batch, Redis, MongoDB  
 - **Highlights**:
   - Spring Batch 기반 뉴스 수집 자동화 (OpenAPI, RSS)
   - Redis 조회수 중복 방지 및 장애 대비 Fallback 로직
@@ -79,7 +79,7 @@ Recently, I’ve been exploring distributed system design to understand how larg
 #### 📊 Findex
 - **Period**: 2025.09  
 - **Role**: Backend Developer  
-- **Tech**: Spring Boot, JPA, QueryDSL, PostgreSQL, Docker
+- **Tech**: Spring Boot, PostgreSQL, QueryDSL, Spring Batch  
 - **Highlights**:
   - 지수 조회·필터·정렬 API 및 성과 랭킹 로직 구현
 - 🔗 [GitHub](https://github.com/codeit-projects-5th/Findex)
