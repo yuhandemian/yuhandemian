@@ -41,13 +41,6 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - **Period**: 2025.12 – 2026.01  
 - **Role**: Team Lead / Backend Developer  
 - **Tech**: Spring Boot, MySQL, QueryDSL, Redis, AWS ECS/ECR/ALB, Docker, GitHub Actions, WebSocket, Prometheus, Grafana  
-- **Highlights**:
-  - Prometheus·Grafana 기반 서비스 모니터링 구성
-  - **Cursor Pagination & Subscription Query Optimization**
-    - 실행계획 분석을 통해 정렬 기반 목록 조회 및 구독 조회 쿼리 병목 식별
-    - UpdatedAt / SubscriberCount / CreatedAt 기준 복합 인덱스 설계
-    - 평균 응답시간 **90.3% 감소**, P99 **91.6% 감소**
-    - TPS **35.8% 증가**, Tail Latency 개선
 - 🔗 [GitHub](https://github.com/codeit-mopl)
 
 
@@ -55,12 +48,6 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - **Period**: 2025.03 – 2025.09 
 - **Role**: Team Lead / Backend Developer  
 - **Tech**: Spring Boot, MySQL, FastAPI, YOLO11s-pose, LSTM, Dialogflow, RTSP  
-- **Highlights**:
-  - 실시간 AI 추론 서버(FastAPI)와 Spring Boot 백엔드 분리 설계
-  - RTSP 연동 실환경에서 추론 정확도 저하 문제 발생
-  - CCTV 입력(30fps)과 모델 학습 데이터(3fps) 간 프레임 레이트 불일치 원인 규명
-  - Frame Sampling Filter 설계로 입력 시계열을 학습 데이터 기준에 동기화
-  - 실환경에서도 테스트 환경과 유사한 추론 정확도 확보
 - 🔗 [GitHub](https://github.com/Capstone-project-team7) | [Demo](https://meerkatai.shop/)
 
 
@@ -69,9 +56,6 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - **Period**: 2025.10 – 2025.11  
 - **Role**: Team Lead / Backend Developer  
 - **Tech**: Spring Boot, PostgreSQL, QueryDSL, Spring Batch, Redis, MongoDB  
-- **Highlights**:
-  - Spring Batch 기반 뉴스 수집 자동화 (OpenAPI, RSS)
-  - Redis 조회수 중복 방지 및 장애 대비 Fallback 로직
 - 🔗 [GitHub](https://github.com/codeit-monew)
 
 
@@ -80,19 +64,13 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - **Period**: 2025.09  
 - **Role**: Backend Developer  
 - **Tech**: Spring Boot, PostgreSQL, QueryDSL, Spring Batch  
-- **Highlights**:
-  - 지수 조회·필터·정렬 API 및 성과 랭킹 로직 구현
 - 🔗 [GitHub](https://github.com/codeit-projects-5th/Findex)
 ---
 
 ### 💡 Personal Projects
 
 #### 📚 CS Wiki - 인터랙티브 CS 학습 플랫폼
-- **Tech**: Next.js, TypeScript, D3.js, Lunr.js
-- **Features**:
-  - D3 Force Graph로 97개 CS 개념 관계 시각화
-  - 클라이언트 전문 검색 (서버리스)
-  - Static Export + GitHub Pages 배포
+- **Tech**: Next.js, TypeScript, D3.js, Lunr.js  
 - 🔗 [GitHub](https://github.com/yuhandemian/cs-wiki) | [Demo](https://yuhandemian.github.io/cs-wiki/)
 
 ---
