@@ -73,6 +73,9 @@ Recently, I’ve been exploring distributed system design to understand how larg
 - **Tech**: Next.js, TypeScript, D3.js, Lunr.js  
 - 🔗 [GitHub](https://github.com/yuhandemian/cs-wiki) | [Demo](https://yuhandemian.github.io/cs-wiki/)
 
+#### 🏟️ CKArena  
+- **Tech**: Spring Boot, MySQL  
+- 🔗 [GitHub](https://github.com/yuhandemian/CKArena)  
 ---
 
 <details>
