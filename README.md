@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Yuhan Park 👋</h1>
 
-I’m diving deep into **backend development**, focusing on scalable and high-performance systems.  
-Recently, I’ve been exploring distributed system design to understand how large architectures behave under load.
+Java/Spring 기반 웹 애플리케이션 개발과 데이터 중심의 업무 기능 구현에 관심 있는 신입 백엔드 개발자입니다.  
 
 ---
 
